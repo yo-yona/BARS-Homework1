@@ -1,8 +1,6 @@
 ﻿using System;
 using BubbleSortLib;
 
-//Was added for testing purposes
-
 namespace ConsoleApp4
 {
     class Program
